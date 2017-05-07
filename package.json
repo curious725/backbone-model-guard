@@ -1,0 +1,11 @@
+{
+  "name": "Backbone.ModelGuard",
+  "version": "0.1.0",
+  "description": "Guard for the Backbone.Model to force using predefined attributes only.",
+  "main": "index.js",
+  "repository": "git@github.com:eleidan/backbone-model-guard.git",
+  "author": "Oleg Kulyk",
+  "license": "GPL-3.0",
+  "devDependencies": {},
+  "peerDependencies": {}
+}
